@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Manuel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://josemanhm.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://josemanhm.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruta de aprendizaje</title>
+      <link>https://josemanhm.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemanhm.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!, te voy a contar todo lo que he aprendido en esta grandiosa misión:
+ Aprendí programación basica con Phyton además de usar las Jupiter Notebooks Maquetación de sitios web con HTML5. Adición de diseños a sitios web con CSS3.   Uso de librerías para maquetación como Bootstrap y Tailwind CSS.   Adición de funcionalidad a sitios web con Javascript.   Uso de Frameworks como Vue 3.   Uso de Git y GitHub para el control de versiones.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://josemanhm.github.io/my_launchx_blog/posts/intro/</link>
