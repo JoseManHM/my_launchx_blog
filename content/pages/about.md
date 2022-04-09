@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Nacido en Santiago de Anaya Hidalgo México.
+> 22 años de edad.
+> Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Pachuca.
+> Amante de la lectura y fan de Rick and Morty.
+> Apasionado por la historia en general.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Fan de todos los gustos musicales, así como de bailar, fiestero en ocasiones y muy responsable en el escuela y en el trabajo.
 
